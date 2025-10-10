@@ -2,9 +2,9 @@
 
 <h3 align="center">Associate Software Engineer 🧑‍💻 | Content Creator 📹</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=it21250156&label=Profile%20views&color=0e75b6&style=flat" alt="it21250156" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janith-official&label=Profile%20views&color=0e75b6&style=flat" alt="janith-official" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21250156&theme=juicyfresh" alt="it21250156" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janith-official&theme=juicyfresh" alt="janith-official" /></a> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
@@ -41,15 +41,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/it21250156">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=it21250156&theme=midnight_purple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=it21250156&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=it21250156&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=it21250156&theme=graywhite" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it21250156&theme=vision_friendly_dark" height="180em" />
+<a href="https://github.com/janith-official">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=janith-official&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janith-official&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janith-official&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janith-official&theme=graywhite" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janith-official&theme=vision_friendly_dark" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=it21250156&theme=elegant"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=janith-official&theme=elegant"/>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
